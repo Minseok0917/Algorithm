@@ -1,26 +1,14 @@
-# algorithm
+# 알고리즘 공부 일지
 
-``` markdown
-### 에라토스테네스의 체 
+### 2022.08.07
 
-배열을 이용하여 소수를 구하는 알고리즘
+---
 
-`date: 2021-03-31`
-```
-``` javascript
-const max = 200;
-const arr = [];
-const list = [];
-for(let index=2; index<=max; index++){
-    if( !!arr[index] === false ){
-        list.push(index);
-        for(let depth=index<<1; depth<=max; depth+=index){
-            arr[depth] = true;
-        }
-    }
-}
-console.log(list);
-```
+#### [백준 11720](https://www.acmicpc.net/problem/11720)
 
-시간복잡도도 공부해야 함.
+[소스풀이](/baekjoon/11720.py)
 
+문제를 보고 바로 풀었지만 다른 사람의 소스를 보고 감탄했다.  
+비록 간단한 문제였지만 코드의 간결함에서 차이가 명확했다.
+
+나는 for 문 돌렸는데 대부분의 사람이 1~2줄로 해결했다 ㅠㅠ
