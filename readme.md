@@ -36,13 +36,20 @@ for 을 한 줄로 쓰고 있다.
 
 #### [백준 11654](https://www.acmicpc.net/problem/11654)
 
-[소스풀이](/baekjoon/11654.py.py)
+[소스풀이](/baekjoon/11654.py)
 
 다행히 파이썬은 print 축약은 없어서 다행인거 같다.
 
 #### [백준 1152](https://www.acmicpc.net/problem/1152)
 
-[소스풀이](/baekjoon/115.py.py)
+[소스풀이](/baekjoon/1152.py)
 
 이걸 2번이나 시도했다는게 어이가 없다.  
 다 풀고 파이썬 숏코딩 구경했는데 이게 된다고? 였다
+
+#### [백준 1157](https://www.acmicpc.net/problem/1157)
+
+[소스풀이](/baekjoon/1157.py)
+
+문제를 다 해결하고 숏코딩을 봤는데 count 입력값 갯수구하는 함수가 있었다.  
+굳이 딕셔너리로 안 구해도 이걸로 했으면 편하게 했을텐데
