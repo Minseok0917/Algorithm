@@ -2,6 +2,12 @@
 
 #### 2022.08.09
 
+## [백준 9012](https://www.acmicpc.net/problem/9012)
+
+[소스풀이](/baekjoon/9012.py)
+
+옛날에 비슷한 문제를 본 적이 있는데 스택을 알고나니 너무 쉽다
+
 ## [백준 9093](https://www.acmicpc.net/problem/9093)
 
 [소스풀이](/baekjoon/9093.py)
