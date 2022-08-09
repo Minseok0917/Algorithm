@@ -2,6 +2,13 @@
 
 #### 2022.08.09
 
+## [백준 1978](https://www.acmicpc.net/problem/1978)
+
+[소스풀이](/baekjoon/1978.py)
+
+강의 그만보고 잘려다 쉬워보여서 후딱 풀음  
+소수 관련된건 대부분 에라토스테네스의 체를 사용하는거 같다
+
 ## [백준 9012](https://www.acmicpc.net/problem/9012)
 
 [소스풀이](/baekjoon/9012.py)
