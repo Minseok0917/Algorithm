@@ -5,19 +5,15 @@ n = int(input())
 
 for i in range(n):
     str = input().strip()
-    stack, size = [], 0
+    stack = 0
     for char in str:
         if char == '(':
-            stack.append(char)
-            size+=1
+            stack+=1
         else:
-            if size == 0:
-                size +=1
+            stack-=1
+            if stack < 0:
                 break
-            else:
-                stack.pop()
-                size-=1
-    if size == 0:
+    if stack == 0:
         print('YES')
     else:
         print('NO')
