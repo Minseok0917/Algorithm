@@ -2,6 +2,12 @@
 
 #### 2022.08.09
 
+## [백준 9093](https://www.acmicpc.net/problem/9093)
+
+[소스풀이](/baekjoon/9093.py)
+
+강의 보고 원리를 알고 푸니 쉽다
+
 ## [백준 10828](https://www.acmicpc.net/problem/10828)
 
 [소스풀이](/baekjoon/10828.py)
