@@ -1,5 +1,13 @@
 # 알고리즘
 
+#### 2022.08.09
+
+## [백준 10828](https://www.acmicpc.net/problem/10828)
+
+[소스풀이](/baekjoon/10828.py)
+
+강의를 보면서 스택에 대한 문제를 풀고 있다.
+
 #### 2022.08.08
 
 ## [백준 1929](https://www.acmicpc.net/problem/1929)
