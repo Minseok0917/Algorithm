@@ -1,5 +1,15 @@
 # 알고리즘
 
+#### 2022.08.12
+
+## [백준 10845](https://www.acmicpc.net/problem/10845)
+
+[소스풀이](/baekjoon/10845.py)
+
+파이썬에서 직접 큐를 구현해서 문제를 해결헀다
+
+#### 2022.08.11
+
 ## [백준 1406](https://www.acmicpc.net/problem/1406)
 
 [소스풀이](/baekjoon/1406.py)
