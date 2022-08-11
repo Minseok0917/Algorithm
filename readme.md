@@ -1,6 +1,10 @@
 # 알고리즘
 
-#### 2022.08.10
+## [백준 1406](https://www.acmicpc.net/problem/1406)
+
+[소스풀이](/baekjoon/1406.py)
+
+강의에서 문제에 대한 해석을 해줘서 풀어보기 쉬웠다.
 
 ## [백준 1874](https://www.acmicpc.net/problem/1874)
 
