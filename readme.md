@@ -2,6 +2,12 @@
 
 #### 2022.08.12
 
+## [백준 1158](https://www.acmicpc.net/problem/1158)
+
+[소스풀이](/baekjoon/1158.py)
+
+큐 관련 문제였는데 출력부분 때문에 시간을 많이 버렸다
+
 ## [백준 10845](https://www.acmicpc.net/problem/10845)
 
 [소스풀이](/baekjoon/10845.py)
