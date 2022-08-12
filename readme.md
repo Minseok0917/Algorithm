@@ -2,6 +2,12 @@
 
 #### 2022.08.12
 
+## [백준 10866](https://www.acmicpc.net/problem/10866)
+
+[소스풀이](/baekjoon/10866.py)
+
+덱은 구현보단 리스트 함수를 이용해서 간단하게 구현했다
+
 ## [백준 1158](https://www.acmicpc.net/problem/1158)
 
 [소스풀이](/baekjoon/1158.py)
