@@ -2,6 +2,12 @@
 
 #### 2022.08.13
 
+## [백준 10808](https://www.acmicpc.net/problem/10808)
+
+[소스풀이](/baekjoon/10808.py)
+
+5분동안 문제를 해결했다
+
 ## [백준 17299](https://www.acmicpc.net/problem/17299)
 
 [소스풀이](/baekjoon/17299.py)
