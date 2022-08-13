@@ -2,6 +2,13 @@
 
 #### 2022.08.12
 
+## [백준 17413](https://www.acmicpc.net/problem/17413)
+
+[소스풀이](/baekjoon/17413.py)
+
+스택을 사용하여 문제를 해결하였다.  
+문제를 푸는 시간이 약 30분 걸렸다
+
 ## [백준 10866](https://www.acmicpc.net/problem/10866)
 
 [소스풀이](/baekjoon/10866.py)
