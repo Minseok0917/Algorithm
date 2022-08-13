@@ -2,6 +2,13 @@
 
 #### 2022.08.13
 
+## [백준 17299](https://www.acmicpc.net/problem/17299)
+
+[소스풀이](/baekjoon/17299.py)
+
+이전 문제와 매우 유사해서 20분동안 해결했다.  
+단 번에 통과해서 기분이 좋아 :)
+
 ## [백준 17298](https://www.acmicpc.net/problem/17298)
 
 [소스풀이](/baekjoon/17298.py)
