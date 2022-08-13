@@ -2,6 +2,13 @@
 
 #### 2022.08.13
 
+## [백준 1935](https://www.acmicpc.net/problem/1935)
+
+[소스풀이](/baekjoon/1935.py)
+
+문제에 대한 이해를 하는 부분에서 시간이 오래걸렸지만  
+한 번의 제출로 통과 했다 :)
+
 ## [백준 11655](https://www.acmicpc.net/problem/11655)
 
 [소스풀이](/baekjoon/11655.py)
