@@ -2,11 +2,17 @@
 
 #### 2022.08.13
 
+## [백준 10820](https://www.acmicpc.net/problem/10820)
+
+[소스풀이](/baekjoon/10820.py)
+
+8분동안 해결했다. 정규식을 이용해서 풀었다
+
 ## [백준 10808](https://www.acmicpc.net/problem/10808)
 
 [소스풀이](/baekjoon/10808.py)
 
-5분동안 문제를 해결했다
+5분동안 문제를 해결했다.
 
 ## [백준 17299](https://www.acmicpc.net/problem/17299)
 
