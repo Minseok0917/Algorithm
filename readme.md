@@ -2,6 +2,12 @@
 
 #### 2022.08.13
 
+## [백준 11656](https://www.acmicpc.net/problem/11656)
+
+[소스풀이](/baekjoon/11656.py)
+
+큐를 사용하여 문제를 해결했고, 정렬은 직접구현하기 귀찮아서 `sorted` 를 사용했다.
+
 ## [백준 10824](https://www.acmicpc.net/problem/10824)
 
 [소스풀이](/baekjoon/10824.py)
