@@ -2,6 +2,13 @@
 
 #### 2022.08.13
 
+## [백준 1918](https://www.acmicpc.net/problem/1918)
+
+[소스풀이](/baekjoon/1918.py)
+
+2시간 30분동안 문제를 풀었다. 힘든 싸움이였다  
+문제를 제대로 풀고 우선순위를 잘못 작성해서 계속 틀리고 있었다
+
 ## [백준 1935](https://www.acmicpc.net/problem/1935)
 
 [소스풀이](/baekjoon/1935.py)
