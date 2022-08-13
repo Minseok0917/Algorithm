@@ -2,6 +2,12 @@
 
 #### 2022.08.13
 
+## [백준 2743](https://www.acmicpc.net/problem/2743)
+
+[소스풀이](/baekjoon/2743.py)
+
+10초 동안 풀었다. 글자 길이를 구하는 문제라서 쉬웠다
+
 ## [백준 10820](https://www.acmicpc.net/problem/10820)
 
 [소스풀이](/baekjoon/10820.py)
