@@ -2,6 +2,12 @@
 
 #### 2022.08.14
 
+## [백준 6588](https://www.acmicpc.net/problem/6588)
+
+[소스풀이](/baekjoon/6588.py)
+
+에라토스테네스의 체와 루트N 으로 소수판별하는 방법을 사용하여 해결했다
+
 ## [백준 1934](https://www.acmicpc.net/problem/1934)
 
 [소스풀이](/baekjoon/1934.py)
