@@ -2,6 +2,12 @@
 
 #### 2022.08.14
 
+## [백준 10872](https://www.acmicpc.net/problem/10872)
+
+[소스풀이](/baekjoon/10872.py)
+
+곱셈 팩토리얼 평범하게 for 문 돌려서 해결
+
 ## [백준 6588](https://www.acmicpc.net/problem/6588)
 
 [소스풀이](/baekjoon/6588.py)
