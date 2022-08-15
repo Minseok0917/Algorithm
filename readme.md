@@ -2,6 +2,13 @@
 
 #### 2022.08.14
 
+## [백준 1676](https://www.acmicpc.net/problem/1676)
+
+[소스풀이](/baekjoon/1676.py)
+
+len 를 통해 문제를 해결했다  
+다른 사람의 소스의 수학을 사용한 풀이를 보고 참 신기했다
+
 ## [백준 10872](https://www.acmicpc.net/problem/10872)
 
 [소스풀이](/baekjoon/10872.py)
