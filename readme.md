@@ -2,6 +2,12 @@
 
 #### 2022.08.14
 
+## [백준 1934](https://www.acmicpc.net/problem/1934)
+
+[소스풀이](/baekjoon/1934.py)
+
+2609 의 최대공약수를 가져오는걸 응용해서 해결
+
 ## [백준 2609](https://www.acmicpc.net/problem/2609)
 
 [소스풀이](/baekjoon/2609.py)
