@@ -1,6 +1,6 @@
 # 알고리즘
 
-#### 2022.08.14
+#
 
 ## [백준 1676](https://www.acmicpc.net/problem/1676)
 
